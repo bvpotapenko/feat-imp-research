@@ -2,6 +2,12 @@ import/
 *.csv
 *.xlsx
 
+models/
+explainers/
+shap_values/
+export/
+*.joblib
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
